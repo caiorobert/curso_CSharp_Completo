@@ -1,0 +1,13 @@
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\bin\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.exe
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\bin\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.deps.json
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\bin\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.runtimeconfig.json
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\bin\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.runtimeconfig.dev.json
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\bin\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.dll
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\bin\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.pdb
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\obj\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.csprojAssemblyReference.cache
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\obj\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.AssemblyInfoInputs.cache
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\obj\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.AssemblyInfo.cs
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\obj\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.csproj.CoreCompileInputs.cache
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\obj\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.dll
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\obj\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.pdb
+D:\source\repos\curso_CSharp_Completo\Cap03_ExercicioFixacao\Cap03_ExercicioFixacao\obj\Debug\netcoreapp3.1\Cap03_ExercicioFixacao.genruntimeconfig.cache

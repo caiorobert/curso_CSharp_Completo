@@ -1,0 +1,13 @@
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csprojAssemblyReference.cache
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+D:\source\repos\curso_CSharp_Completo\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
