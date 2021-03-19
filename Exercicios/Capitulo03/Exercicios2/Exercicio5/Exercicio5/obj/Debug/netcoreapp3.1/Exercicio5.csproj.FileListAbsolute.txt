@@ -1,0 +1,13 @@
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.exe
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.deps.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.runtimeconfig.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.runtimeconfig.dev.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.dll
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\bin\Debug\netcoreapp3.1\Exercicio5.pdb
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.csprojAssemblyReference.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.AssemblyInfoInputs.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.AssemblyInfo.cs
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.csproj.CoreCompileInputs.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.dll
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.pdb
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicios2\Exercicio5\Exercicio5\obj\Debug\netcoreapp3.1\Exercicio5.genruntimeconfig.cache

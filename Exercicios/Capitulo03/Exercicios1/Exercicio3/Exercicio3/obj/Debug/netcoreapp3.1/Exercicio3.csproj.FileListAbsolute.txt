@@ -1,0 +1,13 @@
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.exe
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.deps.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.dev.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.dll
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.pdb
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csprojAssemblyReference.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfoInputs.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfo.cs
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csproj.CoreCompileInputs.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.dll
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.pdb
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo03\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.genruntimeconfig.cache
