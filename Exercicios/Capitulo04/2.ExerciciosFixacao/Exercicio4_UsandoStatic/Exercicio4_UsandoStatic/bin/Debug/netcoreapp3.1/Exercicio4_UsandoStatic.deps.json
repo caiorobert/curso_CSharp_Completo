@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exercicio4_UsandoStatic/1.0.0": {
+        "runtime": {
+          "Exercicio4_UsandoStatic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio4_UsandoStatic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

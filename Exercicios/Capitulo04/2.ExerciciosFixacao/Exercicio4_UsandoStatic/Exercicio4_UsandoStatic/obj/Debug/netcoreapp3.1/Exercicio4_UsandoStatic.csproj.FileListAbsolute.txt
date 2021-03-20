@@ -1,0 +1,12 @@
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\bin\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.exe
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\bin\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.deps.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\bin\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.runtimeconfig.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\bin\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.runtimeconfig.dev.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\bin\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.dll
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\bin\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.pdb
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\obj\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.AssemblyInfoInputs.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\obj\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.AssemblyInfo.cs
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\obj\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.csproj.CoreCompileInputs.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\obj\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.dll
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\obj\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.pdb
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo04\2.ExerciciosFixacao\Exercicio4_UsandoStatic\Exercicio4_UsandoStatic\obj\Debug\netcoreapp3.1\Exercicio4_UsandoStatic.genruntimeconfig.cache

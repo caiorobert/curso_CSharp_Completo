@@ -1,0 +1,13 @@
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\bin\Debug\netcoreapp3.1\Cap04.exe
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\bin\Debug\netcoreapp3.1\Cap04.deps.json
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\bin\Debug\netcoreapp3.1\Cap04.runtimeconfig.json
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\bin\Debug\netcoreapp3.1\Cap04.runtimeconfig.dev.json
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\bin\Debug\netcoreapp3.1\Cap04.dll
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\bin\Debug\netcoreapp3.1\Cap04.pdb
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\obj\Debug\netcoreapp3.1\Cap04.csprojAssemblyReference.cache
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\obj\Debug\netcoreapp3.1\Cap04.AssemblyInfoInputs.cache
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\obj\Debug\netcoreapp3.1\Cap04.AssemblyInfo.cs
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\obj\Debug\netcoreapp3.1\Cap04.csproj.CoreCompileInputs.cache
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\obj\Debug\netcoreapp3.1\Cap04.dll
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\obj\Debug\netcoreapp3.1\Cap04.pdb
+D:\source\repos\curso_CSharp_Completo\Cap04\2.SegundoProblema\Cap04\Cap04\obj\Debug\netcoreapp3.1\Cap04.genruntimeconfig.cache
