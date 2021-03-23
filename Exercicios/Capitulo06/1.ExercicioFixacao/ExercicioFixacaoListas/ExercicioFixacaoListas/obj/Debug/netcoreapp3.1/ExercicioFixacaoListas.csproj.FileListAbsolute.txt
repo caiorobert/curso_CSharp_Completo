@@ -1,0 +1,13 @@
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioFixacaoListas.exe
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioFixacaoListas.deps.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioFixacaoListas.runtimeconfig.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioFixacaoListas.runtimeconfig.dev.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioFixacaoListas.dll
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\bin\Debug\netcoreapp3.1\ExercicioFixacaoListas.pdb
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioFixacaoListas.csprojAssemblyReference.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioFixacaoListas.AssemblyInfoInputs.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioFixacaoListas.AssemblyInfo.cs
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioFixacaoListas.csproj.CoreCompileInputs.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioFixacaoListas.dll
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioFixacaoListas.pdb
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoListas\ExercicioFixacaoListas\obj\Debug\netcoreapp3.1\ExercicioFixacaoListas.genruntimeconfig.cache

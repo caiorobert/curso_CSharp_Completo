@@ -1,0 +1,13 @@
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.exe
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.deps.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.runtimeconfig.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.runtimeconfig.dev.json
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.dll
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\bin\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.pdb
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.csprojAssemblyReference.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.AssemblyInfoInputs.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.AssemblyInfo.cs
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.csproj.CoreCompileInputs.cache
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.dll
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.pdb
+D:\source\repos\curso_CSharp_Completo\Exercicios\Capitulo06\1.ExercicioFixacao\ExercicioFixacaoMatriz\ExercicioFixacaoMatriz\obj\Debug\netcoreapp3.1\ExercicioFixacaoMatriz.genruntimeconfig.cache
