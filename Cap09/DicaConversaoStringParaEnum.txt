@@ -1,0 +1,7 @@
+No vídeo convertemos de string para enumeração deste jeito:
+	OrderStatus os = Enum.Parse<OrderStatus>("Delivered");
+Mas se não funcionar na sua versão do C#, tente deste jeito:
+	OrderStatus os = (OrderStatus)Enum.Parse(typeof(OrderStatus), "Delivered");
+Se mesmo assim ainda tiver dando erro, há ainda uma terceira forma:
+	OrderStatus os;
+	Enum.TryParse("Delivered", out os);
