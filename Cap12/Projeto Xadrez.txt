@@ -1,0 +1,2 @@
+O capítulo 12 é a implementação de um projeto do jogo Xadrez, estando salvo em outro repositório, segue endereço:
+https://github.com/caiorobert/xadrez-console
